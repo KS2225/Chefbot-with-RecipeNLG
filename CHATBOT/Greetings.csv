@@ -1,0 +1,103 @@
+Question,Answer,Class
+Hello,Hi,greetings
+Hi,Hello,greetings
+Hey,Hi,greetings
+Greetings,Hi,greetings
+Hey There,Hey,greetings
+"Hi, How is it going?",Good,greetings
+"Hey, How is it going?",Fine,greetings
+Howdy,Hey,greetings
+Whatsup,Nothing much,greetings
+How are you doing?,Good,greetings
+Nice to meet you.,Thank you,greetings
+How do you do?,I'm doing well.,greetings
+"Hi, nice to meet you.",Thank you. You too.,greetings
+Bye,C U,greetings
+C U,Bye,greetings
+Tata,Bye,greetings
+Good Morning,Good Morning,greetings
+Good Afternoon,Good Afternoon,greetings
+Good Evening,Good Evening,greetings
+Good Day,Good Day,greetings
+What's up?,Not much,greetings
+Hi there,Hello,greetings
+Hi there,Good to see you,greetings
+Hi there,"Hi there, how can I help?",greetings
+Hola,Good to see you,greetings
+Hola,"Hi there, how can I help?",greetings
+Is anyone there?,Hello,greetings
+Is anyone there?,Good to see you,greetings
+Is anyone there?,"Hi there, how can I help?",greetings
+Hola,Hello,greetings
+Bye,See you!,goodbye
+Bye,Have a nice day,goodbye
+Bye,Bye! Come back again soon.,goodbye
+See you later,See you!,goodbye
+See you later,Have a nice day,goodbye
+See you later,Bye! Come back again soon.,goodbye
+Goodbye,See you!,goodbye
+Goodbye,Have a nice day,goodbye
+Goodbye,Bye! Come back again soon.,goodbye
+"Nice chattng to you, bye",See you!,goodbye
+"Nice chattng to you, bye",Have a nice day,goodbye
+"Nice chattng to you, bye",Bye! Come back again soon.,goodbye
+Till next time,See you!,goodbye
+Till next time,Have a nice day,goodbye
+Till next time,Bye! Come back again soon.,goodbye
+Exit,See you!,goodbye
+Exit,Have a nice day,goodbye
+Exit,Bye! Come back again soon.,goodbye
+How are you,"I'm good, thanks for asking.",bot_questions
+How are you,Doing Well,bot_questions
+How are you,Could do better :>,bot_questions
+How was your day,"I'm good, thanks for asking.",bot_questions
+How was your day,Doing Well,bot_questions
+How was your day,Could do better :>,bot_questions
+Howdy,"I'm good, thanks for asking.",bot_questions
+Howdy,Doing Well,bot_questions
+Howdy,Could do better :>,bot_questions
+Thanks,Happy to help!,thanks
+Thanks,Any time!,thanks
+Thanks,My pleasure,thanks
+Thank you,Happy to help!,thanks
+Thank you,Any time!,thanks
+Thank you,My pleasure,thanks
+That's helpful,Happy to help!,thanks
+That's helpful,Any time!,thanks
+That's helpful,My pleasure,thanks
+"Awesome, thanks",Happy to help!,thanks
+"Awesome, thanks",Any time!,thanks
+"Awesome, thanks",My pleasure,thanks
+Thanks for helping me,Happy to help!,thanks
+Thanks for helping me,Any time!,thanks
+Thanks for helping me,My pleasure,thanks
+ok,Happy to help!,thanks
+ok,Any time!,thanks
+ok,My pleasure,thanks
+good,Happy to help!,thanks
+good,Any time!,thanks
+good,My pleasure,thanks
+great,Happy to help!,thanks
+great,Any time!,thanks
+great,My pleasure,thanks
+cool,Happy to help!,thanks
+cool,Any time!,thanks
+cool,My pleasure,thanks
+"""""","Sorry, can't understand you",noanswer
+"""""",Please give me more info,noanswer
+"""""",Not sure I understand,noanswer
+How you could help me?,I can guide you through different recipes,what_do_you_do
+How you could help me?,I can help you cook over 22000 dishes.,what_do_you_do
+How you could help me?,I can be your cooking assistant and guide you through the cooking process.,what_do_you_do
+What help can you provide?,I can guide you through different recipes,what_do_you_do
+What help can you provide?,I can help you cook over 22000 dishes.,what_do_you_do
+What help can you provide?,I can be your cooking assistant and guide you through the cooking process.,what_do_you_do
+How can you be helpful?,I can guide you through different recipes,what_do_you_do
+How can you be helpful?,I can help you cook over 22000 dishes.,what_do_you_do
+How can you be helpful?,I can be your cooking assistant and guide you through the cooking process.,what_do_you_do
+What can you do?,I can help you cook over 22000 dishes.,what_do_you_do
+What can you do?,I can be your cooking assistant and guide you through the cooking process.,what_do_you_do
+What is my name, Your name is {0},name_question
+Tell me my name,Your name is {0},name_question
+What's my name,Your name is {0},name_question
+I am?,Your name is {0}. ,name_question
